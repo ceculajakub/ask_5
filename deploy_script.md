@@ -22,3 +22,9 @@ curl -O http://adsk.dydaktyka.jkan.pl/_static/id_student
 ``` bash
 ssh ec2-user@52.57.41.105 -i id_student
 ```
+
+## install-packages
+
+* package manager
+    * Debian -> ``apt``
+    * Amazon linux -> ``dnf``
